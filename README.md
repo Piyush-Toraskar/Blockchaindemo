@@ -23,6 +23,8 @@ This project is a **simple blockchain simulation** implemented in Python and dem
 
 ### Example Blocks Table
 <img width="1682" height="516" alt="image" src="https://github.com/user-attachments/assets/b3ec135b-3a31-4c24-ab12-5d859733d343" />
+---
+
 ## Requirements
 
 - Python 3.x
